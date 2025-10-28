@@ -1072,6 +1072,11 @@ document.write(unescape('%3C%21%2D%2D%20%43%6F%6F%6B%69%65%20%43%6F%6E%73%65%6E%
     window.addEventListener('resize', createMobileMenu);
     createMobileMenu();
 </script>
+
+<a href="/" alt="free web tracker" target="_blank" >
+<img  src="https://sstatic1.histats.com/0.gif?4977134&101" alt="free web tracker" border="0">
+    
 </body> 
 </html>
+
 
